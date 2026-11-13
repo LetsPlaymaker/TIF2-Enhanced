@@ -1,4 +1,4 @@
-# TIF2psx
+# TIF2 Enhanced
 
 A native PC version of **This Is Football 2** (PlayStation, 2000, PAL
 `SCES-03070`), made by static recompilation, with optional enhancements:
